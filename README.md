@@ -10,4 +10,4 @@
 
 ---
 
-![github stats](https://github-readme-stats.vercel.app/api?username=woo-dev-log)
+![github stats](https://github-readme-stats.vercel.app/api?username=woo-dev-log&theme=covalt)
