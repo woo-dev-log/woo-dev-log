@@ -7,7 +7,7 @@
 [![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white)](https://sass-lang.com/)
 
 [![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Express Badge](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
+[![Express Badge](https://img.shields.io/badge/Express-555555?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
 
 ---
 
