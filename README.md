@@ -10,7 +10,7 @@
 [![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Express Badge](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
 -->
-[![My Skills](https://skillicons.dev/icons?i=js,ts,scss,react,nodejs,express,linux&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,scss,react,nodejs,express,mysql&perline=4)](https://skillicons.dev)
 
 ---
 
