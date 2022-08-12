@@ -1,6 +1,7 @@
 ## 신우혁 Shin, Woohyuk
 ### Frontend Developer
 
+<!--
 ![Javascript](https://img.shields.io/badge/Javscript-F7DF1E?style=flat&logo=Javascript&logoColor=white)
 [![Typescript Badge](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)
 [![React.js Badge](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white)](https://reactjs.org/)
@@ -8,6 +9,8 @@
 
 [![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Express Badge](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
+-->
+[![My Skills](https://skillicons.dev/icons?i=js,ts,scss,react,nodejs,express,linux&perline=4)](https://skillicons.dev)
 
 ---
 
