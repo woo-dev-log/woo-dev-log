@@ -14,7 +14,7 @@
 
 ---
 
-![github stats](https://github-readme-stats.vercel.app/api?username=woo-dev-log&theme=cobalt)
+![github stats](https://github-readme-stats.vercel.app/api?username=woo-dev-log&theme=dark)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woo-dev-log&layout=compact)](https://github.com/woo-dev-log/)-->
 
